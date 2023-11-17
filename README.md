@@ -1,4 +1,4 @@
-# Many-to-Many Relationships
+# Many-to-Many Relationships.
 
 ## Learning Goals
 
